@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.container}>
       <div>
         <a
-          href="https://www.instagram.com/kaveh.aminiraouf?igsh=dHYxMHU5ejhiOHow"
+          href="https://www.instagram.com/kaveh.aminiraouf?igsh=MXFxdGN1cjlib2p0OA=="
           target="_blank"
           rel="noopener noreferrer"
           className={styles.link}
