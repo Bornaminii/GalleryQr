@@ -1,0 +1,31 @@
+.container {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* center text */
+  direction: rtl; /* right-to-left for Persian text */
+}
+
+.link {
+  color: black;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  margin-bottom: 1.5rem; /* space below link */
+  display: inline-block;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.text {
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.spacer {
+  margin-top: 2rem; /* space between text blocks */
+}
