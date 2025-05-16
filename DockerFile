@@ -1,5 +1,5 @@
 # Use official Node.js image
-FROM Docker.arvancloud/18-alpine
+FROM docker.arvancloud.ir/18-alpine
 
 # Set working directory
 WORKDIR /app
